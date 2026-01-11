@@ -73,9 +73,14 @@ function App() {
   }
 
   return (
-    <div className="w-screen min-h-screen bg-zinc-900 flex justify-center p-6">
+    <div className="min-h-[100dvh] w-full bg-zinc-900 flex justify-center p-6"
+    style={{
+    paddingBottom: 'env(safe-area-inset-bottom)',
+    paddingTop: 'env(safe-area-inset-top)',
+  }}
+    >
       <div className="w-[500px] space-y-8">
-        <h1 className="text-3xl text-gray-100 font-bold text-center mb-6">
+        <h1 className="text-3xl text-gray-100 font-bold text-center mt-8 mb-6">
           Minhas Tarefas
         </h1>
 
