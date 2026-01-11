@@ -1,10 +1,10 @@
 # 📝 To‑Do List – React
 
-Um aplicativo de **lista de tarefas** desenvolvido em **React** com foco em produtividade, organização e uma interface limpa (estilo app de produtividade).
+Um aplicativo de **lista de tarefas** desenvolvido em **React** com foco em produtividade, organização e uma interface limpa.
 
 ## 🚀 Demonstração
 
-🔗 **Deploy:** [https://SEU-LINK-AQUI](https://SEU-LINK-AQUI)
+🔗 **Deploy:** [https://gvieira-dev.github.io/todo_react/]
 
 ---
 
@@ -54,10 +54,10 @@ src/
 
 ```bash
 # Clone o repositório
-git clone https://github.com/SEU-USUARIO/SEU-REPO.git
+git clone https://github.com/gvieira-dev/todo_react.git
 
 # Entre na pasta do projeto
-cd nome-do-projeto
+cd todo_react
 
 # Instale as dependências
 npm install
@@ -65,12 +65,6 @@ npm install
 # Rode o projeto
 npm run dev
 ```
-
----
-
-## 📸 Preview
-
-> *(Adicione aqui screenshots ou GIFs do projeto)*
 
 ---
 
@@ -94,8 +88,8 @@ Este projeto foi desenvolvido com o objetivo de **praticar React**, componentiza
 
 **Gustavo Vieira**
 
-* GitHub: [https://github.com/SEU-USUARIO](https://github.com/SEU-USUARIO)
-* LinkedIn: [https://linkedin.com/in/SEU-LINK](https://linkedin.com/in/SEU-LINK)
+* GitHub: [https://github.com/gvieira-dev]
+* LinkedIn: [https://www.linkedin.com/in/gustavo-vieira-b55313335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]
 
 ---
 
